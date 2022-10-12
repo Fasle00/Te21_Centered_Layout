@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+
+    background-color: black;
+    color: white;
+    
+}
+
+.hero > h1{
+    color: #676360;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+}
+
+.hero > h1 > img{
+    filter: transparent;
+}
+
+a{
+    color: #4079ff;
+}
+
+a:hover{
+    color: rgb(80, 91, 255);
+}
+
+.logo{
+    text-decoration: none;
+}
+
+nav > a{
+    color: #000000;
+    background-color: #000000;
+}
+
+nav a{
+    color: #787eff;
+}
+
+
+/*
+#000000
+#aea9a3
+#95918c
+#807c77
+#676360
+*/
